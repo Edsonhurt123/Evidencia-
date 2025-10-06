@@ -1,0 +1,3 @@
+Ruben;20
+Cris ;15
+Mario;30

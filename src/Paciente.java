@@ -1,6 +1,6 @@
 class Paciente {
 
-String nombre;
+String nombrePaciente;
 String edad;
 
 

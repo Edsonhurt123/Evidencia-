@@ -6,3 +6,5 @@ public class Cita {
     Paciente paciente;
     Doctor doctor;
 }
+
+    
